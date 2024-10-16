@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\propertyhubwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|solutionrelative:propertyhubwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\propertyhubwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|solutionrelative:propertyhubwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\data_models\\propertyhubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\data_models\\propertyhubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\propertyhubwebapi\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|solutionrelative:propertyhubwebapi\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\data_access_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\data_access_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A1C286-27A5-4907-AB0F-F7D3449C184D}|BUSINESS_LOGIC_LAYER\\BUSINESS_LOGIC_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\business_logic_layer\\business_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60A1C286-27A5-4907-AB0F-F7D3449C184D}|BUSINESS_LOGIC_LAYER\\BUSINESS_LOGIC_LAYER.csproj|solutionrelative:business_logic_layer\\business_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\propertyhubwebapi\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|solutionrelative:propertyhubwebapi\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\propertyhubwebapi\\mappingprofiles\\userauthenticationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|solutionrelative:propertyhubwebapi\\mappingprofiles\\userauthenticationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\propertyhubwebapi\\mappingprofiles\\propertymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|solutionrelative:propertyhubwebapi\\mappingprofiles\\propertymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\propertyhubwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B438B4D4-A32E-4267-9721-2E63786BD8D3}|PropertyHubWebApi\\PropertyHubWebApi.csproj|solutionrelative:propertyhubwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\migrations\\propertyhubdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\migrations\\propertyhubdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\migrations\\20240304202409_updateenumproerties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\migrations\\20240304202409_updateenumproerties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\migrations\\20240304082926_updatemodeproerties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\migrations\\20240304082926_updatemodeproerties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\dtos\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\dtos\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\data_access_layer\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2498FC5-1D30-49C0-B3CF-CC76C4969EB7}|DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj|solutionrelative:data_access_layer\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A1C286-27A5-4907-AB0F-F7D3449C184D}|BUSINESS_LOGIC_LAYER\\BUSINESS_LOGIC_LAYER.csproj|d:\\mvc projects\\propertyhub\\propertyhub_backend\\propertyhubmanagement\\business_logic_layer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A1C286-27A5-4907-AB0F-F7D3449C184D}|BUSINESS_LOGIC_LAYER\\BUSINESS_LOGIC_LAYER.csproj|solutionrelative:business_logic_layer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Models\\Wishlist.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Models\\Wishlist.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Models\\Wishlist.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Models\\Wishlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:08:12.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Models\\Booking.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Models\\Booking.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Models\\Booking.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:08:08.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Models\\User.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Models\\User.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Models\\User.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwCwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:04:49.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertyMappingProfile.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\MappingProfiles\\PropertyMappingProfile.cs",
+              "RelativeDocumentMoniker": "PropertyHubWebApi\\MappingProfiles\\PropertyMappingProfile.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\MappingProfiles\\PropertyMappingProfile.cs",
+              "RelativeToolTip": "PropertyHubWebApi\\MappingProfiles\\PropertyMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:43:24.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BUSINESS_LOGIC_LAYER.csproj",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\BUSINESS_LOGIC_LAYER\\BUSINESS_LOGIC_LAYER.csproj",
+              "RelativeDocumentMoniker": "BUSINESS_LOGIC_LAYER\\BUSINESS_LOGIC_LAYER.csproj",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\BUSINESS_LOGIC_LAYER\\BUSINESS_LOGIC_LAYER.csproj",
+              "RelativeToolTip": "BUSINESS_LOGIC_LAYER\\BUSINESS_LOGIC_LAYER.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T12:44:41.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAwwBIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:53:36.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PropertyHubWebApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PropertyHubWebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAwwBEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:38:47.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyHubWebApi\\Program.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\Program.cs",
+              "RelativeToolTip": "PropertyHubWebApi\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:57:53.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Models\\Property.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Models\\Property.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Models\\Property.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:04:23.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAuthenticationMappingProfile.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\MappingProfiles\\UserAuthenticationMappingProfile.cs",
+              "RelativeDocumentMoniker": "PropertyHubWebApi\\MappingProfiles\\UserAuthenticationMappingProfile.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\MappingProfiles\\UserAuthenticationMappingProfile.cs",
+              "RelativeToolTip": "PropertyHubWebApi\\MappingProfiles\\UserAuthenticationMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:43:28.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "PropertyHubWebApi\\Controllers\\WishlistController.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "PropertyHubWebApi\\Controllers\\WishlistController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:00:07.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "PropertyHubWebApi\\Controllers\\PropertyController.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "PropertyHubWebApi\\Controllers\\PropertyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:38:56.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropertyHubDbContext.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Data_Models\\PropertyHubDbContext.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Data_Models\\PropertyHubDbContext.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Data_Models\\PropertyHubDbContext.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Data_Models\\PropertyHubDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:49:33.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DATA_ACCESS_LAYER.csproj",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\DATA_ACCESS_LAYER.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T12:45:00.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PropertyDTO.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\DTOs\\PropertyDTO.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\DTOs\\PropertyDTO.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\DTOs\\PropertyDTO.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\DTOs\\PropertyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:04:08.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PropertyHubDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Migrations\\PropertyHubDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Migrations\\PropertyHubDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Migrations\\PropertyHubDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Migrations\\PropertyHubDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwGMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:52:00.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PropertyHubWebApi\\appsettings.json",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\PropertyHubWebApi\\appsettings.json",
+              "RelativeToolTip": "PropertyHubWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T10:41:36.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Repositories\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Repositories\\IBookingRepository.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Repositories\\IBookingRepository.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Repositories\\IBookingRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:53:29.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Repositories\\BookingRepository.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Repositories\\BookingRepository.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAAAFgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:52:46.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240304202409_UpdateEnumProerties.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Migrations\\20240304202409_UpdateEnumProerties.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Migrations\\20240304202409_UpdateEnumProerties.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Migrations\\20240304202409_UpdateEnumProerties.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Migrations\\20240304202409_UpdateEnumProerties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:51:54.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240304082926_UpdateModeProerties.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Migrations\\20240304082926_UpdateModeProerties.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\Migrations\\20240304082926_UpdateModeProerties.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\Migrations\\20240304082926_UpdateModeProerties.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\Migrations\\20240304082926_UpdateModeProerties.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:51:10.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WishlistDTO.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\DTOs\\WishlistDTO.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\DTOs\\WishlistDTO.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\DTOs\\WishlistDTO.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\DTOs\\WishlistDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:51:03.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\DTOs\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "DATA_ACCESS_LAYER\\DTOs\\BookingDTO.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\DATA_ACCESS_LAYER\\DTOs\\BookingDTO.cs",
+              "RelativeToolTip": "DATA_ACCESS_LAYER\\DTOs\\BookingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:51:00.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\BUSINESS_LOGIC_LAYER\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BUSINESS_LOGIC_LAYER\\Services\\UserService.cs",
+              "ToolTip": "D:\\MVC PROJECTS\\PropertyHub\\PropertyHub_Backend\\PropertyHubManagement\\BUSINESS_LOGIC_LAYER\\Services\\UserService.cs",
+              "RelativeToolTip": "BUSINESS_LOGIC_LAYER\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:38:23.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

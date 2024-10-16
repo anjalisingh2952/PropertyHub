@@ -1,0 +1,42 @@
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.csproj.AssemblyReference.cache
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.AssemblyInfoInputs.cache
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.AssemblyInfo.cs
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.deps.json
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.runtimeconfig.json
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.dll
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.dll
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\refint\DATA_ACCESS_LAYER.dll
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.genruntimeconfig.cache
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\ref\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.deps.json
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.runtimeconfig.json
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.csproj.AssemblyReference.cache
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.AssemblyInfoInputs.cache
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.AssemblyInfo.cs
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.csproj.CoreCompileInputs.cache
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\refint\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.genruntimeconfig.cache
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\ref\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.csproj.AssemblyReference.cache
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.AssemblyInfoInputs.cache
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.AssemblyInfo.cs
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.csproj.CoreCompileInputs.cache
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\refint\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.deps.json
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.runtimeconfig.json
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\DATA_ACCESS_LAYER.genruntimeconfig.cache
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\DATA_ACCESS_LAYER\obj\Debug\net8.0\ref\DATA_ACCESS_LAYER.dll

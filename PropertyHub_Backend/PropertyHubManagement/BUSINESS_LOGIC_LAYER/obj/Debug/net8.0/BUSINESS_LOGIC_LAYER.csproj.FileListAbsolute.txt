@@ -1,0 +1,45 @@
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.csproj.AssemblyReference.cache
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.AssemblyInfoInputs.cache
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.AssemblyInfo.cs
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.deps.json
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.dll
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.pdb
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.dll
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.csproj.CopyComplete
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.dll
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\refint\BUSINESS_LOGIC_LAYER.dll
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.pdb
+C:\Users\2308501\OneDrive - Cognizant\Desktop\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\ref\BUSINESS_LOGIC_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.deps.json
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.csproj.AssemblyReference.cache
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.AssemblyInfoInputs.cache
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.AssemblyInfo.cs
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.csproj.CoreCompileInputs.cache
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS.BC12813B.Up2Date
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\refint\BUSINESS_LOGIC_LAYER.dll
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub-main\PropertyHub-main\Full_Stack_DotNet_Angular\ProHub\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\ref\BUSINESS_LOGIC_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.deps.json
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\BUSINESS_LOGIC_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\bin\Debug\net8.0\DATA_ACCESS_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.csproj.AssemblyReference.cache
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.AssemblyInfoInputs.cache
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.AssemblyInfo.cs
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.csproj.CoreCompileInputs.cache
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS.BC12813B.Up2Date
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\refint\BUSINESS_LOGIC_LAYER.dll
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\BUSINESS_LOGIC_LAYER.pdb
+D:\MVC PROJECTS\PropertyHub\PropertyHub_Backend\PropertyHubManagement\BUSINESS_LOGIC_LAYER\obj\Debug\net8.0\ref\BUSINESS_LOGIC_LAYER.dll
